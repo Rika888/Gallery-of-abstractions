@@ -1,0 +1,13 @@
+h1{
+    color: brown;
+    font-family: 'Source Code Pro', monospace;
+}
+.page {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+}
+.name {
+    display: flex;
+    justify-content: center;
+}
